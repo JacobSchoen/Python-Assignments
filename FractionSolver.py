@@ -1,4 +1,4 @@
-# Jacob Schoen U96128313 4/3/2017
+# Jacob Schoen
 
 # 1. Write a regular expression patt that can be used to extract (numerator,denominator,operator,numerator,denominator)
 # from a string containing a fraction, an arithmetic operator, and a fraction
